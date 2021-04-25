@@ -1,0 +1,5 @@
+*/*.out
+*/*.dvi
+*/*.tex
+*/*.dot
+*/states
